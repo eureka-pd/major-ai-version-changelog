@@ -1,0 +1,42 @@
+{
+  "last_checked": "2026-06-06",
+  "apps": {
+    "claude-code": {
+      "latest": "2.1.165",
+      "date": "2026-06-05",
+      "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "components": {
+        "gui": "2.1.165",
+        "cli": "2.1.165"
+      }
+    },
+    "codex": {
+      "latest": "26.602",
+      "date": "2026-06-04",
+      "source": "https://developers.openai.com/codex/changelog",
+      "components": {
+        "gui": "26.602",
+        "cli": "0.137.0"
+      }
+    },
+    "cursor": {
+      "latest": "3.7",
+      "date": "2026-06-05",
+      "source": "https://cursor.com/ko/changelog",
+      "components": {
+        "gui": "3.7",
+        "cli": null
+      }
+    },
+    "antigravity": {
+      "latest": "2.0.10",
+      "date": "2026-05-28",
+      "source": "https://antigravity.google/changelog",
+      "components": {
+        "gui": "2.0.10",
+        "ide": "2.0.3",
+        "cli": "2.0"
+      }
+    }
+  }
+}
