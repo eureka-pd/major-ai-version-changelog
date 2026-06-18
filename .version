@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-18",
+  "last_checked": "2026-06-19",
   "apps": {
     "claude-code": {
       "latest": "2.1.181",
@@ -9,20 +9,20 @@
         "gui": "2.1.181",
         "cli": "2.1.181"
       },
-      "published_changelog_latest": "2.1.179"
+      "published_changelog_latest": "2.1.181"
     },
     "codex": {
       "latest": "26.609",
-      "date": "2026-06-16",
+      "date": "2026-06-18",
       "source": "https://developers.openai.com/codex/changelog",
       "components": {
         "gui": "26.609",
-        "cli": "0.140.0",
+        "cli": "0.141.0",
         "mobile": "1.2026.160"
       },
       "component_dates": {
         "gui": "2026-06-11",
-        "cli": "2026-06-15",
+        "cli": "2026-06-18",
         "mobile": "2026-06-15",
         "general": "2026-06-16"
       },
@@ -32,7 +32,7 @@
     },
     "cursor": {
       "latest": "3.7",
-      "date": "2026-06-10",
+      "date": "2026-06-18",
       "source": "https://cursor.com/ko/changelog",
       "components": {
         "gui": "3.7",
