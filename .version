@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-06-26",
+  "last_checked": "2026-06-27",
   "apps": {
     "claude-code": {
-      "latest": "2.1.191",
+      "latest": "2.1.193",
       "date": "2026-06-26",
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
-        "gui": "2.1.191",
-        "cli": "2.1.191"
+        "gui": "2.1.193",
+        "cli": "2.1.193"
       },
-      "published_changelog_latest": "2.1.191"
+      "published_changelog_latest": "2.1.193"
     },
     "codex": {
       "latest": "26.616",
@@ -24,10 +24,12 @@
         "gui": "2026-06-18",
         "cli": "2026-06-26",
         "mobile": "2026-06-22",
-        "general": "2026-06-16"
+        "general": "2026-06-25"
       },
       "notices": {
-        "regional_availability": "2026-06-16"
+        "regional_availability": "2026-06-16",
+        "codex_remote_ga": "2026-06-25",
+        "digitalocean_plugin": "2026-06-25"
       }
     },
     "cursor": {
@@ -40,17 +42,17 @@
       }
     },
     "antigravity": {
-      "latest": "2.1.4",
-      "date": "2026-06-11",
+      "latest": "2.2.1",
+      "date": "2026-06-25",
       "source": "https://antigravity.google/changelog",
       "components": {
-        "gui": "2.1.4",
-        "ide": "2.0.4",
+        "gui": "2.2.1",
+        "ide": "2.1.1",
         "cli": "2.0"
       },
       "component_dates": {
-        "gui": "2026-06-11",
-        "ide": "2026-06-02",
+        "gui": "2026-06-25",
+        "ide": "2026-06-22",
         "cli": null
       }
     }
