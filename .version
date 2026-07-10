@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-06-28",
+  "last_checked": "2026-07-11",
   "apps": {
     "claude-code": {
-      "latest": "2.1.195",
-      "date": "2026-06-27",
+      "latest": "2.1.206",
+      "date": "2026-07-10",
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
-        "gui": "2.1.195",
-        "cli": "2.1.195"
+        "gui": "2.1.206",
+        "cli": "2.1.206"
       },
-      "published_changelog_latest": "2.1.195"
+      "published_changelog_latest": "2.1.206"
     },
     "codex": {
       "latest": "26.616",
@@ -17,27 +17,28 @@
       "source": "https://developers.openai.com/codex/changelog",
       "components": {
         "gui": "26.616",
-        "cli": "0.142.3",
+        "cli": "0.144.1",
         "mobile": "1.2026.167"
       },
       "component_dates": {
         "gui": "2026-06-18",
-        "cli": "2026-06-27",
+        "cli": "2026-07-09",
         "mobile": "2026-06-22",
-        "general": "2026-06-25"
+        "general": "2026-07-09"
       },
       "notices": {
         "regional_availability": "2026-06-16",
         "codex_remote_ga": "2026-06-25",
-        "digitalocean_plugin": "2026-06-25"
+        "digitalocean_plugin": "2026-06-25",
+        "chatgpt_desktop_integration": "2026-07-09"
       }
     },
     "cursor": {
-      "latest": "3.9",
-      "date": "2026-06-22",
+      "latest": "3.11",
+      "date": "2026-07-10",
       "source": "https://cursor.com/ko/changelog",
       "components": {
-        "gui": "3.9",
+        "gui": "3.11",
         "cli": null
       }
     },
