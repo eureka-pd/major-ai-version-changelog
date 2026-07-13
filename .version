@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-13",
+  "last_checked": "2026-07-14",
   "apps": {
     "claude-code": {
       "latest": "2.1.207",
@@ -17,18 +17,18 @@
       "source": "https://developers.openai.com/codex/changelog",
       "components": {
         "gui": "26.616",
-        "cli": "0.144.1",
+        "cli": "0.144.3",
         "mobile": "1.2026.181"
       },
       "component_dates": {
         "gui": "2026-06-18",
-        "cli": "2026-07-09",
+        "cli": "2026-07-13",
         "mobile": "2026-07-06",
-        "general": "2026-07-09"
+        "general": "2026-07-13"
       },
       "prerelease": {
-        "cli": "0.145.0-alpha.4",
-        "date": "2026-07-11"
+        "cli": "0.145.0-alpha.7",
+        "date": "2026-07-13"
       },
       "notices": {
         "regional_availability": "2026-06-16",
