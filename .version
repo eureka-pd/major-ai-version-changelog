@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-20",
+  "last_checked": "2026-07-21",
   "apps": {
     "claude-code": {
       "latest": "2.1.215",
@@ -27,8 +27,8 @@
         "general": "2026-07-14"
       },
       "prerelease": {
-        "cli": "0.145.0-alpha.24",
-        "date": "2026-07-19"
+        "cli": "0.145.0-alpha.25",
+        "date": "2026-07-21"
       },
       "notices": {
         "regional_availability": "2026-06-16",
