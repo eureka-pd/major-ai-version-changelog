@@ -1,29 +1,29 @@
 {
-  "last_checked": "2026-07-23",
+  "last_checked": "2026-07-24",
   "apps": {
     "claude-code": {
-      "latest": "2.1.217",
-      "date": "2026-07-22",
+      "latest": "2.1.218",
+      "date": "2026-07-24",
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
-        "gui": "2.1.217",
-        "cli": "2.1.217"
+        "gui": "2.1.218",
+        "cli": "2.1.218"
       },
-      "published_changelog_latest": "2.1.217"
+      "published_changelog_latest": "2.1.218"
     },
     "codex": {
-      "latest": "26.616",
-      "date": "2026-06-18",
+      "latest": "26.707",
+      "date": "2026-07-09",
       "source": "https://developers.openai.com/codex/changelog",
       "components": {
-        "gui": "26.616",
+        "gui": "26.707",
         "cli": "0.145.0",
-        "mobile": "1.2026.188"
+        "mobile": "1.2026.195"
       },
       "component_dates": {
-        "gui": "2026-06-18",
+        "gui": "2026-07-09",
         "cli": "2026-07-22",
-        "mobile": "2026-07-13",
+        "mobile": "2026-07-20",
         "general": "2026-07-14"
       },
       "prerelease": {
