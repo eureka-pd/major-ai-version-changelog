@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-27",
+  "last_checked": "2026-07-29",
   "apps": {
     "claude-code": {
       "latest": "2.1.220",
@@ -18,12 +18,12 @@
       "components": {
         "gui": "26.715",
         "cli": "0.145.0",
-        "mobile": "1.2026.195"
+        "mobile": "1.2026.202"
       },
       "component_dates": {
         "gui": "2026-07-23",
         "cli": "2026-07-22",
-        "mobile": "2026-07-20",
+        "mobile": "2026-07-27",
         "general": "2026-07-14"
       },
       "prerelease": {
@@ -47,7 +47,8 @@
       },
       "notices": {
         "slack_improvements": "2026-07-17",
-        "cursor_router": "2026-07-22"
+        "cursor_router": "2026-07-22",
+        "cursor_start_india": "2026-07-28"
       }
     },
     "antigravity": {
@@ -58,13 +59,13 @@
         "gui": "2.4.2",
         "ide": "2.1.1",
         "cli": "2.0",
-        "cli_binary": "1.1.6"
+        "cli_binary": "1.1.8"
       },
       "component_dates": {
         "gui": "2026-07-26",
         "ide": "2026-06-22",
         "cli": null,
-        "cli_binary": "2026-07-26"
+        "cli_binary": "2026-07-28"
       }
     }
   }
