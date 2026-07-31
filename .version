@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-31",
+  "last_checked": "2026-08-01",
   "apps": {
     "claude-code": {
       "latest": "2.1.220",
@@ -12,16 +12,16 @@
       "published_changelog_latest": "2.1.220"
     },
     "codex": {
-      "latest": "26.715",
-      "date": "2026-07-23",
+      "latest": "26.727",
+      "date": "2026-07-30",
       "source": "https://developers.openai.com/codex/changelog",
       "components": {
-        "gui": "26.715",
+        "gui": "26.727",
         "cli": "0.146.0",
         "mobile": "1.2026.202"
       },
       "component_dates": {
-        "gui": "2026-07-23",
+        "gui": "2026-07-30",
         "cli": "2026-07-29",
         "mobile": "2026-07-27",
         "general": "2026-07-14"
@@ -53,17 +53,17 @@
       }
     },
     "antigravity": {
-      "latest": "2.4.2",
-      "date": "2026-07-26",
+      "latest": "2.4.3",
+      "date": "2026-07-28",
       "source": "https://antigravity.google/changelog",
       "components": {
-        "gui": "2.4.2",
+        "gui": "2.4.3",
         "ide": "2.1.1",
         "cli": "2.0",
         "cli_binary": "1.1.8"
       },
       "component_dates": {
-        "gui": "2026-07-26",
+        "gui": "2026-07-28",
         "ide": "2026-06-22",
         "cli": null,
         "cli_binary": "2026-07-28"
