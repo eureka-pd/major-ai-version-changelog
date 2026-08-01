@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-01",
+  "last_checked": "2026-08-02",
   "apps": {
     "claude-code": {
       "latest": "2.1.220",
@@ -34,7 +34,8 @@
         "regional_availability": "2026-06-16",
         "codex_remote_ga": "2026-06-25",
         "digitalocean_plugin": "2026-06-25",
-        "chatgpt_desktop_integration": "2026-07-09"
+        "chatgpt_desktop_integration": "2026-07-09",
+        "gpt_5_4_retirement": "2026-07-31"
       }
     },
     "cursor": {
