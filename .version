@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-08-04",
+  "last_checked": "2026-08-05",
   "apps": {
     "claude-code": {
-      "latest": "2.1.220",
-      "date": "2026-07-26",
+      "latest": "2.1.221",
+      "date": "2026-08-05",
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
-        "gui": "2.1.220",
-        "cli": "2.1.220"
+        "gui": "2.1.221",
+        "cli": "2.1.221"
       },
-      "published_changelog_latest": "2.1.220"
+      "published_changelog_latest": "2.1.221"
     },
     "codex": {
       "latest": "26.727",
@@ -50,18 +50,19 @@
         "cursor_ipad": "2026-07-29",
         "slack_improvements": "2026-07-17",
         "cursor_router": "2026-07-22",
-        "cursor_start_india": "2026-07-28"
+        "cursor_start_india": "2026-07-28",
+        "google_workspace_plugins": "2026-08-03"
       }
     },
     "antigravity": {
-      "latest": "2.4.3",
-      "date": "2026-07-28",
+      "latest": "2.5.0",
+      "date": "2026-07-31",
       "source": "https://antigravity.google/changelog",
       "components": {
-        "gui": "2.4.3",
+        "gui": "2.5.0",
         "ide": "2.1.1",
         "cli": "2.0",
-        "cli_binary": "1.1.9"
+        "cli_binary": "1.1.10"
       },
       "component_dates": {
         "gui": "2026-07-28",
