@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-17",
+  "last_checked": "2026-08-18",
   "apps": {
     "claude-code": {
       "latest": "2.1.233",
@@ -51,7 +51,8 @@
         "cursor_router": "2026-07-22",
         "cursor_start_india": "2026-07-28",
         "google_workspace_plugins": "2026-08-03",
-        "cloud_agent_prebuilds": "2026-08-13"
+        "cloud_agent_prebuilds": "2026-08-13",
+        "origin_code_hosting": "2026-08-17"
       }
     },
     "antigravity": {
