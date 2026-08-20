@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-08-20",
+  "last_checked": "2026-08-21",
   "apps": {
     "claude-code": {
-      "latest": "2.1.235",
+      "latest": "2.1.237",
       "date": null,
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
-        "gui": "2.1.235",
-        "cli": "2.1.235"
+        "gui": "2.1.237",
+        "cli": "2.1.237"
       },
-      "published_changelog_latest": "2.1.235"
+      "published_changelog_latest": "2.1.237"
     },
     "codex": {
       "latest": "26.727",
@@ -34,7 +34,14 @@
         "gpt_5_4_retirement": "2026-07-31",
         "daybreak_access_tiers": "2026-08-10",
         "computer_history": "2026-08-13",
-        "linux_desktop_preview": "2026-08-11"
+        "linux_desktop_preview": "2026-08-11",
+        "gitlab_cloud_beta": "2026-08-19",
+        "apple_messages": "2026-08-20",
+        "site_co_editing": "2026-08-20",
+        "editable_site_urls": "2026-08-20",
+        "computer_history_europe": "2026-08-20",
+        "shared_thread_snapshots": "2026-08-20",
+        "unified_pinned_threads": "2026-08-20"
       }
     },
     "cursor": {
