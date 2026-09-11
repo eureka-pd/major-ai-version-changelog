@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-09-11",
+  "last_checked": "2026-09-12",
   "apps": {
     "claude-code": {
-      "latest": "2.1.267",
+      "latest": "2.1.268",
       "date": null,
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
-        "gui": "2.1.267",
-        "cli": "2.1.267"
+        "gui": "2.1.268",
+        "cli": "2.1.268"
       },
-      "published_changelog_latest": "2.1.267"
+      "published_changelog_latest": "2.1.268"
     },
     "codex": {
       "latest": "26.727",
@@ -46,7 +46,9 @@
         "browser_extensions_more_browsers": "2026-08-25",
         "site_tools_webmcp": "2026-08-25",
         "cloud_browser_signin": "2026-08-25",
-        "scheduled_tasks_app_events": "2026-08-25"
+        "scheduled_tasks_app_events": "2026-08-25",
+        "python_sdk_0_154_0": "2026-09-10",
+        "cygwin_voice_build_inputs": "2026-09-10"
       }
     },
     "cursor": {
@@ -67,7 +69,8 @@
         "origin_code_hosting": "2026-08-17",
         "cloud_agent_subscriptions": "2026-08-19",
         "start_from_scratch": "2026-08-27",
-        "self_hosted_machines": "2026-09-02"
+        "self_hosted_machines": "2026-09-02",
+        "cursor_projects": "2026-09-10"
       }
     },
     "antigravity": {
