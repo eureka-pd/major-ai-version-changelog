@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-21",
+  "last_checked": "2026-09-22",
   "apps": {
     "claude-code": {
       "latest": "2.1.278",
@@ -76,17 +76,17 @@
       }
     },
     "antigravity": {
-      "latest": "2.15.0",
-      "date": "2026-09-18",
+      "latest": "2.15.1",
+      "date": "2026-09-19",
       "source": "https://antigravity.google/changelog",
       "components": {
-        "gui": "2.15.0",
+        "gui": "2.15.1",
         "ide": "2.5.5",
         "cli": "2.0",
         "cli_binary": "1.2.6"
       },
       "component_dates": {
-        "gui": "2026-09-18",
+        "gui": "2026-09-19",
         "ide": "2026-08-13",
         "cli": null,
         "cli_binary": "2026-09-18"
