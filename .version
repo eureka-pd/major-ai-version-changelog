@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-09-23",
+  "last_checked": "2026-09-24",
   "apps": {
     "claude-code": {
-      "latest": "2.1.280",
+      "latest": "2.1.281",
       "date": null,
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
-        "gui": "2.1.280",
-        "cli": "2.1.280"
+        "gui": "2.1.281",
+        "cli": "2.1.281"
       },
-      "published_changelog_latest": "2.1.280"
+      "published_changelog_latest": "2.1.281"
     },
     "codex": {
       "latest": "26.908",
@@ -77,20 +77,20 @@
       }
     },
     "antigravity": {
-      "latest": "2.15.1",
-      "date": "2026-09-19",
+      "latest": "2.17.0",
+      "date": "2026-09-22",
       "source": "https://antigravity.google/changelog",
       "components": {
-        "gui": "2.15.1",
+        "gui": "2.17.0",
         "ide": "2.5.5",
         "cli": "2.0",
-        "cli_binary": "1.2.6"
+        "cli_binary": "1.2.9"
       },
       "component_dates": {
-        "gui": "2026-09-19",
+        "gui": "2026-09-22",
         "ide": "2026-08-13",
         "cli": null,
-        "cli_binary": "2026-09-18"
+        "cli_binary": "2026-09-23"
       }
     }
   }
