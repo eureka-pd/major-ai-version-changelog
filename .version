@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-09-24",
+  "last_checked": "2026-09-25",
   "apps": {
     "claude-code": {
-      "latest": "2.1.281",
+      "latest": "2.1.282",
       "date": null,
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
-        "gui": "2.1.281",
-        "cli": "2.1.281"
+        "gui": "2.1.282",
+        "cli": "2.1.282"
       },
-      "published_changelog_latest": "2.1.281"
+      "published_changelog_latest": "2.1.282"
     },
     "codex": {
       "latest": "26.908",
@@ -17,13 +17,13 @@
       "source": "https://developers.openai.com/codex/changelog",
       "components": {
         "gui": "26.908",
-        "cli": "0.155.1",
-        "mobile": "1.2026.251"
+        "cli": "0.156.1",
+        "mobile": "1.2026.258"
       },
       "component_dates": {
         "gui": "2026-09-11",
-        "cli": "2026-09-18",
-        "mobile": "2026-09-18",
+        "cli": "2026-09-23",
+        "mobile": "2026-09-23",
         "general": "2026-07-14"
       },
       "notices": {
@@ -73,7 +73,8 @@
         "cloud_agent_subscriptions": "2026-08-19",
         "start_from_scratch": "2026-08-27",
         "self_hosted_machines": "2026-09-02",
-        "cursor_projects": "2026-09-10"
+        "cursor_projects": "2026-09-10",
+        "rollouts_security_review": "2026-09-23"
       }
     },
     "antigravity": {
