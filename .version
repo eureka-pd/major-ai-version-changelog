@@ -1,28 +1,28 @@
 {
-  "last_checked": "2026-09-28",
+  "last_checked": "2026-09-29",
   "apps": {
     "claude-code": {
-      "latest": "2.1.283",
+      "latest": "2.1.284",
       "date": null,
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
-        "gui": "2.1.283",
-        "cli": "2.1.283"
+        "gui": "2.1.284",
+        "cli": "2.1.284"
       },
-      "published_changelog_latest": "2.1.283"
+      "published_changelog_latest": "2.1.284"
     },
     "codex": {
-      "latest": "26.908",
-      "date": "2026-09-11",
+      "latest": "26.924",
+      "date": "2026-09-25",
       "source": "https://developers.openai.com/codex/changelog",
       "components": {
-        "gui": "26.908",
-        "cli": "0.157.1",
+        "gui": "26.924",
+        "cli": "0.158.0",
         "mobile": "1.2026.258"
       },
       "component_dates": {
-        "gui": "2026-09-11",
-        "cli": "2026-09-26",
+        "gui": "2026-09-25",
+        "cli": "2026-09-28",
         "mobile": "2026-09-23",
         "general": "2026-07-14"
       },
@@ -51,7 +51,8 @@
         "cygwin_voice_build_inputs": "2026-09-10",
         "pets_quick_chat_windows_appshots": "2026-09-11",
         "gpt_5_5_retirement": "2026-09-14",
-        "gpt_6_sol_luna": "2026-09-22"
+        "gpt_6_sol_luna": "2026-09-22",
+        "macos_security_26_924": "2026-09-25"
       }
     },
     "cursor": {
