@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-29",
+  "last_checked": "2026-09-30",
   "apps": {
     "claude-code": {
       "latest": "2.1.284",
@@ -17,12 +17,12 @@
       "source": "https://developers.openai.com/codex/changelog",
       "components": {
         "gui": "26.924",
-        "cli": "0.158.0",
+        "cli": "0.159.0",
         "mobile": "1.2026.258"
       },
       "component_dates": {
         "gui": "2026-09-25",
-        "cli": "2026-09-28",
+        "cli": "2026-09-29",
         "mobile": "2026-09-23",
         "general": "2026-07-14"
       },
@@ -52,7 +52,8 @@
         "pets_quick_chat_windows_appshots": "2026-09-11",
         "gpt_5_5_retirement": "2026-09-14",
         "gpt_6_sol_luna": "2026-09-22",
-        "macos_security_26_924": "2026-09-25"
+        "macos_security_26_924": "2026-09-25",
+        "gpt_6_1_sol": "2026-09-29"
       }
     },
     "cursor": {
@@ -79,20 +80,20 @@
       }
     },
     "antigravity": {
-      "latest": "2.17.0",
-      "date": "2026-09-22",
+      "latest": "2.18.1",
+      "date": "2026-09-28",
       "source": "https://antigravity.google/changelog",
       "components": {
-        "gui": "2.17.0",
+        "gui": "2.18.1",
         "ide": "2.5.5",
         "cli": "2.0",
-        "cli_binary": "1.2.9"
+        "cli_binary": "1.2.11"
       },
       "component_dates": {
-        "gui": "2026-09-22",
+        "gui": "2026-09-28",
         "ide": "2026-08-13",
         "cli": null,
-        "cli_binary": "2026-09-23"
+        "cli_binary": "2026-09-25"
       }
     }
   }
