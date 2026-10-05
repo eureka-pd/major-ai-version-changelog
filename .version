@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-06",
   "apps": {
     "claude-code": {
       "latest": "2.1.289",
@@ -17,12 +17,12 @@
       "source": "https://developers.openai.com/codex/changelog",
       "components": {
         "gui": "26.924",
-        "cli": "0.160.0",
+        "cli": "0.160.1",
         "mobile": "1.2026.258"
       },
       "component_dates": {
         "gui": "2026-09-25",
-        "cli": "2026-10-01",
+        "cli": "2026-10-05",
         "mobile": "2026-09-23",
         "general": "2026-07-14"
       },
@@ -53,7 +53,8 @@
         "gpt_5_5_retirement": "2026-09-14",
         "gpt_6_sol_luna": "2026-09-22",
         "macos_security_26_924": "2026-09-25",
-        "gpt_6_1_sol": "2026-09-29"
+        "gpt_6_1_sol": "2026-09-29",
+        "gpt_5_3_codex_spark_deprecated": "2026-09-14"
       }
     },
     "cursor": {
