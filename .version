@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-10-09",
+  "last_checked": "2026-10-10",
   "apps": {
     "claude-code": {
-      "latest": "2.1.294",
+      "latest": "2.1.295",
       "date": "2026-10-08",
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
-        "gui": "2.1.294",
-        "cli": "2.1.294"
+        "gui": "2.1.295",
+        "cli": "2.1.295"
       },
-      "published_changelog_latest": "2.1.294"
+      "published_changelog_latest": "2.1.295"
     },
     "codex": {
       "latest": "26.924",
@@ -78,14 +78,15 @@
         "start_from_scratch": "2026-08-27",
         "self_hosted_machines": "2026-09-02",
         "cursor_projects": "2026-09-10",
-        "rollouts_security_review": "2026-09-23"
+        "rollouts_security_review": "2026-09-23",
+        "remote_control_local_agents": "2026-10-06"
       },
       "distribution_observations": {
         "gui": {
-          "version": "3.23",
-          "observed_on": "2026-10-09",
+          "version": "3.24",
+          "observed_on": "2026-10-10",
           "release_date": null,
-          "source": "https://cursor.com/ko/download"
+          "source": "https://cursor.com/download"
         },
         "cli": {
           "version": "2026.10.01-e373342",
