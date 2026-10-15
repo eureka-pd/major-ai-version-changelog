@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-15",
+  "last_checked": "2026-10-16",
   "apps": {
     "claude-code": {
       "latest": "2.1.300",
@@ -12,16 +12,16 @@
       "published_changelog_latest": "2.1.300"
     },
     "codex": {
-      "latest": "26.924",
-      "date": "2026-09-25",
+      "latest": "26.1007",
+      "date": "2026-10-08",
       "source": "https://developers.openai.com/codex/changelog",
       "components": {
-        "gui": "26.924",
+        "gui": "26.1007",
         "cli": "0.162.1",
         "mobile": "1.2026.272"
       },
       "component_dates": {
-        "gui": "2026-09-25",
+        "gui": "2026-10-08",
         "cli": "2026-10-09",
         "mobile": "2026-10-07",
         "general": "2026-07-14"
@@ -56,7 +56,8 @@
         "gpt_6_1_sol": "2026-09-29",
         "gpt_5_3_codex_spark_deprecated": "2026-09-14",
         "gpt_6_1_sol_ultrafast": "2026-10-08",
-        "gpt_5_5_retirement_effective": "2026-10-14"
+        "gpt_5_5_retirement_effective": "2026-10-14",
+        "composer_predictions": "2026-10-09"
       }
     },
     "cursor": {
@@ -80,7 +81,8 @@
         "self_hosted_machines": "2026-09-02",
         "cursor_projects": "2026-09-10",
         "rollouts_security_review": "2026-09-23",
-        "remote_control_local_agents": "2026-10-06"
+        "remote_control_local_agents": "2026-10-06",
+        "origin_app_marketplace": "2026-10-13"
       },
       "distribution_observations": {
         "gui": {
@@ -90,8 +92,8 @@
           "source": "https://cursor.com/download"
         },
         "cli": {
-          "version": "2026.10.14-0f9edde",
-          "observed_on": "2026-10-15",
+          "version": "2026.10.14-941492e",
+          "observed_on": "2026-10-16",
           "release_date": null,
           "source": "https://cursor.com/install"
         }
