@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-10-17",
+  "last_checked": "2026-10-18",
   "apps": {
     "claude-code": {
-      "latest": "2.1.301",
-      "date": "2026-10-15",
+      "latest": "2.1.302",
+      "date": "2026-10-16",
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
         "gui": "2.1.300",
-        "cli": "2.1.301"
+        "cli": "2.1.302"
       },
-      "published_changelog_latest": "2.1.301"
+      "published_changelog_latest": "2.1.302"
     },
     "codex": {
       "latest": "26.1007",
@@ -82,7 +82,8 @@
         "cursor_projects": "2026-09-10",
         "rollouts_security_review": "2026-09-23",
         "remote_control_local_agents": "2026-10-06",
-        "origin_app_marketplace": "2026-10-13"
+        "origin_app_marketplace": "2026-10-13",
+        "cloud_agent_canvas_environments": "2026-10-16"
       },
       "distribution_observations": {
         "gui": {
@@ -100,22 +101,22 @@
       }
     },
     "antigravity": {
-      "latest": "2.23.1",
-      "date": "2026-10-13",
+      "latest": "2.24.0",
+      "date": "2026-10-15",
       "source": "https://antigravity.google/changelog",
       "components": {
-        "gui": "2.23.1",
+        "gui": "2.24.0",
         "ide": "2.5.5",
         "cli": "2.0",
-        "cli_binary": "1.3.6",
+        "cli_binary": "1.4.0",
         "vscode_extension": "1.8.0",
         "visual_studio_extension": "1.0.261012.0"
       },
       "component_dates": {
-        "gui": "2026-10-13",
+        "gui": "2026-10-15",
         "ide": "2026-08-13",
         "cli": null,
-        "cli_binary": "2026-10-15",
+        "cli_binary": "2026-10-16",
         "vscode_extension": "2026-10-12",
         "visual_studio_extension": "2026-10-12"
       }
