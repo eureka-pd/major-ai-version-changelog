@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-10-22",
+  "last_checked": "2026-10-23",
   "apps": {
     "claude-code": {
-      "latest": "2.1.306",
-      "date": "2026-10-21",
+      "latest": "2.1.308",
+      "date": "2026-10-22",
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
         "gui": "2.1.300",
-        "cli": "2.1.306"
+        "cli": "2.1.308"
       },
-      "published_changelog_latest": "2.1.306"
+      "published_changelog_latest": "2.1.308"
     },
     "codex": {
       "latest": "26.1007",
@@ -101,24 +101,24 @@
       }
     },
     "antigravity": {
-      "latest": "2.24.0",
-      "date": "2026-10-15",
+      "latest": "2.25.0",
+      "date": "2026-10-20",
       "source": "https://antigravity.google/changelog",
       "components": {
-        "gui": "2.24.0",
+        "gui": "2.25.0",
         "ide": "2.5.5",
         "cli": "2.0",
         "cli_binary": "1.4.0",
-        "vscode_extension": "1.8.0",
-        "visual_studio_extension": "1.0.261012.0"
+        "vscode_extension": "1.9.0",
+        "visual_studio_extension": "1.0.261016.0"
       },
       "component_dates": {
-        "gui": "2026-10-15",
+        "gui": "2026-10-20",
         "ide": "2026-08-13",
         "cli": null,
         "cli_binary": "2026-10-16",
-        "vscode_extension": "2026-10-12",
-        "visual_studio_extension": "2026-10-12"
+        "vscode_extension": "2026-10-19",
+        "visual_studio_extension": "2026-10-16"
       }
     }
   }
