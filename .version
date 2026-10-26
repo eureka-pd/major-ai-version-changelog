@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "apps": {
     "claude-code": {
       "latest": "2.1.310",
@@ -57,7 +57,8 @@
         "gpt_5_3_codex_spark_deprecated": "2026-09-14",
         "gpt_6_1_sol_ultrafast": "2026-10-08",
         "gpt_5_5_retirement_effective": "2026-10-14",
-        "composer_predictions": "2026-10-09"
+        "composer_predictions": "2026-10-09",
+        "gpt_6_1_terra": "2026-10-26"
       }
     },
     "cursor": {
