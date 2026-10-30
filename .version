@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-10-30",
+  "last_checked": "2026-10-31",
   "apps": {
     "claude-code": {
-      "latest": "2.1.312",
-      "date": "2026-10-27",
+      "latest": "2.1.314",
+      "date": "2026-10-30",
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
         "gui": "2.1.300",
-        "cli": "2.1.312"
+        "cli": "2.1.314"
       },
-      "published_changelog_latest": "2.1.312"
+      "published_changelog_latest": "2.1.314"
     },
     "codex": {
       "latest": "26.1007",
@@ -17,13 +17,13 @@
       "source": "https://developers.openai.com/codex/changelog",
       "components": {
         "gui": "26.1007",
-        "cli": "0.165.0",
-        "mobile": "1.2026.272"
+        "cli": "0.166.0",
+        "mobile": "1.2026.286"
       },
       "component_dates": {
         "gui": "2026-10-08",
-        "cli": "2026-10-27",
-        "mobile": "2026-10-07",
+        "cli": "2026-10-29",
+        "mobile": "2026-10-22",
         "general": "2026-07-14"
       },
       "notices": {
@@ -118,17 +118,17 @@
         "gui": "2.28.1",
         "ide": "2.6.0",
         "cli": "2.0",
-        "cli_binary": "1.4.0",
-        "vscode_extension": "1.9.0",
-        "visual_studio_extension": "1.0.261016.0"
+        "cli_binary": "1.4.10",
+        "vscode_extension": "1.10.0",
+        "visual_studio_extension": "1.0.261026.0"
       },
       "component_dates": {
         "gui": "2026-10-28",
         "ide": "2026-10-26",
         "cli": null,
-        "cli_binary": "2026-10-16",
-        "vscode_extension": "2026-10-19",
-        "visual_studio_extension": "2026-10-16"
+        "cli_binary": "2026-10-29",
+        "vscode_extension": "2026-10-26",
+        "visual_studio_extension": "2026-10-26"
       }
     }
   }
