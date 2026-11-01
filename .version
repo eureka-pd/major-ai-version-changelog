@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-01",
+  "last_checked": "2026-11-02",
   "apps": {
     "claude-code": {
       "latest": "2.1.316",
@@ -62,10 +62,10 @@
       },
       "prerelease_observations": {
         "cli": {
-          "version": "0.166.0-alpha.6",
-          "published_at": "2026-10-29T01:41:25Z",
-          "observed_on": "2026-10-30",
-          "source": "https://github.com/openai/codex/releases/tag/rust-v0.166.0-alpha.6"
+          "version": "0.167.0-alpha.2",
+          "published_at": "2026-11-01T19:00:13Z",
+          "observed_on": "2026-11-02",
+          "source": "https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.2"
         }
       }
     },
