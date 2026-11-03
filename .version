@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-11-03",
+  "last_checked": "2026-11-04",
   "apps": {
     "claude-code": {
-      "latest": "2.1.316",
-      "date": "2026-10-31",
+      "latest": "2.1.317",
+      "date": "2026-11-03",
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
         "gui": "2.1.300",
-        "cli": "2.1.316"
+        "cli": "2.1.317"
       },
-      "published_changelog_latest": "2.1.316"
+      "published_changelog_latest": "2.1.317"
     },
     "codex": {
       "latest": "26.1007",
@@ -62,10 +62,10 @@
       },
       "prerelease_observations": {
         "cli": {
-          "version": "0.167.0-alpha.3",
-          "published_at": "2026-11-01T22:26:17Z",
-          "observed_on": "2026-11-03",
-          "source": "https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.3"
+          "version": "0.167.0-alpha.4",
+          "published_at": "2026-11-03T02:24:00Z",
+          "observed_on": "2026-11-04",
+          "source": "https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.4"
         }
       }
     },
