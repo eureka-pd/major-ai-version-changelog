@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-11-04",
+  "last_checked": "2026-11-05",
   "apps": {
     "claude-code": {
-      "latest": "2.1.317",
-      "date": "2026-11-03",
+      "latest": "2.1.318",
+      "date": "2026-11-04",
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
         "gui": "2.1.300",
-        "cli": "2.1.317"
+        "cli": "2.1.318"
       },
-      "published_changelog_latest": "2.1.317"
+      "published_changelog_latest": "2.1.318"
     },
     "codex": {
       "latest": "26.1007",
@@ -18,12 +18,12 @@
       "components": {
         "gui": "26.1007",
         "cli": "0.166.0",
-        "mobile": "1.2026.286"
+        "mobile": "1.2026.293"
       },
       "component_dates": {
         "gui": "2026-10-08",
         "cli": "2026-10-29",
-        "mobile": "2026-10-22",
+        "mobile": "2026-10-27",
         "general": "2026-07-14"
       },
       "notices": {
@@ -62,10 +62,10 @@
       },
       "prerelease_observations": {
         "cli": {
-          "version": "0.167.0-alpha.4",
-          "published_at": "2026-11-03T02:24:00Z",
-          "observed_on": "2026-11-04",
-          "source": "https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.4"
+          "version": "0.168.0-alpha.1",
+          "published_at": "2026-11-04T02:54:53Z",
+          "observed_on": "2026-11-05",
+          "source": "https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.1"
         }
       }
     },
@@ -111,22 +111,22 @@
       }
     },
     "antigravity": {
-      "latest": "2.28.2",
-      "date": "2026-10-29",
+      "latest": "2.29.0",
+      "date": "2026-11-03",
       "source": "https://antigravity.google/changelog",
       "components": {
-        "gui": "2.28.2",
+        "gui": "2.29.0",
         "ide": "2.6.0",
         "cli": "2.0",
-        "cli_binary": "1.4.10",
+        "cli_binary": "1.4.12",
         "vscode_extension": "1.10.0",
         "visual_studio_extension": "1.0.261026.0"
       },
       "component_dates": {
-        "gui": "2026-10-29",
+        "gui": "2026-11-03",
         "ide": "2026-10-26",
         "cli": null,
-        "cli_binary": "2026-10-29",
+        "cli_binary": "2026-10-30",
         "vscode_extension": "2026-10-26",
         "visual_studio_extension": "2026-10-26"
       }
