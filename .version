@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-05",
+  "last_checked": "2026-11-06",
   "apps": {
     "claude-code": {
       "latest": "2.1.318",
@@ -18,12 +18,12 @@
       "components": {
         "gui": "26.1007",
         "cli": "0.166.0",
-        "mobile": "1.2026.293"
+        "mobile": "1.2026.300"
       },
       "component_dates": {
         "gui": "2026-10-08",
         "cli": "2026-10-29",
-        "mobile": "2026-10-27",
+        "mobile": "2026-11-02",
         "general": "2026-07-14"
       },
       "notices": {
@@ -62,10 +62,10 @@
       },
       "prerelease_observations": {
         "cli": {
-          "version": "0.168.0-alpha.1",
-          "published_at": "2026-11-04T02:54:53Z",
-          "observed_on": "2026-11-05",
-          "source": "https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.1"
+          "version": "0.168.0-alpha.3",
+          "published_at": "2026-11-05T02:34:18Z",
+          "observed_on": "2026-11-06",
+          "source": "https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.3"
         }
       }
     },
@@ -97,14 +97,14 @@
       },
       "distribution_observations": {
         "gui": {
-          "version": "3.24",
-          "observed_on": "2026-10-10",
+          "version": "3.28",
+          "observed_on": "2026-11-06",
           "release_date": null,
           "source": "https://cursor.com/download"
         },
         "cli": {
-          "version": "2026.10.22-27dcf5f",
-          "observed_on": "2026-10-26",
+          "version": "2026.11.05-86047df",
+          "observed_on": "2026-11-06",
           "release_date": null,
           "source": "https://cursor.com/install"
         }
