@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-07",
+  "last_checked": "2026-11-08",
   "apps": {
     "claude-code": {
       "latest": "2.1.319",
@@ -62,10 +62,10 @@
       },
       "prerelease_observations": {
         "cli": {
-          "version": "0.168.0-alpha.7",
-          "published_at": "2026-11-05T22:55:03Z",
-          "observed_on": "2026-11-07",
-          "source": "https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.7"
+          "version": "0.169.0-alpha.2",
+          "published_at": "2026-11-06T22:13:30Z",
+          "observed_on": "2026-11-08",
+          "source": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.2"
         }
       }
     },
@@ -93,7 +93,9 @@
         "remote_control_local_agents": "2026-10-06",
         "origin_app_marketplace": "2026-10-13",
         "cloud_agent_canvas_environments": "2026-10-16",
-        "agent_sdk": "2026-10-20"
+        "agent_sdk": "2026-10-20",
+        "build_live_apps": "2026-11-05",
+        "voice_chat_agents": "2026-11-06"
       },
       "distribution_observations": {
         "gui": {
