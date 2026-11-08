@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-08",
+  "last_checked": "2026-11-09",
   "apps": {
     "claude-code": {
       "latest": "2.1.319",
@@ -62,10 +62,10 @@
       },
       "prerelease_observations": {
         "cli": {
-          "version": "0.169.0-alpha.2",
-          "published_at": "2026-11-06T22:13:30Z",
-          "observed_on": "2026-11-08",
-          "source": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.2"
+          "version": "0.169.0-alpha.3",
+          "published_at": "2026-11-07T19:31:41Z",
+          "observed_on": "2026-11-09",
+          "source": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.3"
         }
       }
     },
@@ -113,11 +113,11 @@
       }
     },
     "antigravity": {
-      "latest": "2.29.0",
-      "date": "2026-11-03",
+      "latest": "2.29.1",
+      "date": "2026-11-06",
       "source": "https://antigravity.google/changelog",
       "components": {
-        "gui": "2.29.0",
+        "gui": "2.29.1",
         "ide": "2.6.0",
         "cli": "2.0",
         "cli_binary": "1.5.1",
@@ -125,7 +125,7 @@
         "visual_studio_extension": "1.0.261102.0"
       },
       "component_dates": {
-        "gui": "2026-11-03",
+        "gui": "2026-11-06",
         "ide": "2026-10-26",
         "cli": null,
         "cli_binary": "2026-11-05",
