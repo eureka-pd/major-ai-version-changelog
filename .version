@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-12",
+  "last_checked": "2026-11-13",
   "apps": {
     "claude-code": {
       "latest": "2.1.322",
@@ -17,13 +17,13 @@
       "source": "https://developers.openai.com/codex/changelog",
       "components": {
         "gui": "26.1007",
-        "cli": "0.167.1",
-        "mobile": "1.2026.300"
+        "cli": "0.167.2",
+        "mobile": "1.2026.307"
       },
       "component_dates": {
         "gui": "2026-10-08",
-        "cli": "2026-11-10",
-        "mobile": "2026-11-02",
+        "cli": "2026-11-11",
+        "mobile": "2026-11-10",
         "general": "2026-07-14"
       },
       "notices": {
@@ -62,10 +62,10 @@
       },
       "prerelease_observations": {
         "cli": {
-          "version": "0.169.0-alpha.11",
-          "published_at": "2026-11-11T10:11:06Z",
-          "observed_on": "2026-11-12",
-          "source": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.11"
+          "version": "0.170.0-alpha.2",
+          "published_at": "2026-11-12T01:30:28Z",
+          "observed_on": "2026-11-13",
+          "source": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.2"
         }
       }
     },
@@ -105,36 +105,37 @@
           "source": "https://cursor.com/download"
         },
         "cli": {
-          "version": "2026.11.11-043ef28",
-          "observed_on": "2026-11-12",
+          "version": "2026.11.11-b912975",
+          "observed_on": "2026-11-13",
           "release_date": null,
           "source": "https://cursor.com/install"
         }
       }
     },
     "antigravity": {
-      "latest": "2.31.0",
-      "date": "2026-11-09",
+      "latest": "2.31.2",
+      "date": "2026-11-11",
       "source": "https://antigravity.google/changelog",
       "components": {
-        "gui": "2.31.0",
+        "gui": "2.31.2",
         "ide": "2.6.0",
         "cli": "2.0",
-        "cli_binary": "1.5.5",
-        "vscode_extension": "1.11.0",
-        "visual_studio_extension": "1.0.261102.0"
+        "cli_binary": "1.5.7",
+        "vscode_extension": "1.12.0",
+        "visual_studio_extension": "1.0.261109.0"
       },
       "component_dates": {
-        "gui": "2026-11-09",
+        "gui": "2026-11-11",
         "ide": "2026-10-26",
         "cli": null,
-        "cli_binary": "2026-11-10",
-        "vscode_extension": "2026-11-02",
-        "visual_studio_extension": "2026-11-02"
+        "cli_binary": "2026-11-12",
+        "vscode_extension": "2026-11-09",
+        "visual_studio_extension": "2026-11-09"
       },
       "notices": {
         "gemini_4_carbon": "2026-11-10",
-        "swarm_preview": "2026-11-10"
+        "swarm_preview": "2026-11-10",
+        "gemini_4_hydrogen": "2026-11-12"
       }
     }
   }
