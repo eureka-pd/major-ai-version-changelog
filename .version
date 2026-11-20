@@ -1,13 +1,13 @@
 {
-  "last_checked": "2026-11-20",
+  "last_checked": "2026-11-21",
   "apps": {
     "claude-code": {
-      "latest": "2.1.328",
-      "date": "2026-11-19",
+      "latest": "2.1.329",
+      "date": "2026-11-20",
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
         "gui": "2.1.300",
-        "cli": "2.1.328"
+        "cli": "2.1.329"
       },
       "published_changelog_latest": "2.1.328"
     },
@@ -17,12 +17,12 @@
       "source": "https://developers.openai.com/codex/changelog",
       "components": {
         "gui": "26.1111",
-        "cli": "0.170.0",
+        "cli": "0.171.0",
         "mobile": "1.2026.307"
       },
       "component_dates": {
         "gui": "2026-11-12",
-        "cli": "2026-11-18",
+        "cli": "2026-11-20",
         "mobile": "2026-11-10",
         "general": "2026-11-17"
       },
@@ -63,10 +63,10 @@
       },
       "prerelease_observations": {
         "cli": {
-          "version": "0.172.0-alpha.2",
-          "published_at": "2026-11-19T15:40Z",
-          "observed_on": "2026-11-20",
-          "source": "https://github.com/openai/codex/releases/tag/rust-v0.172.0-alpha.2"
+          "version": "0.173.0-alpha.1",
+          "published_at": "2026-11-20T02:50Z",
+          "observed_on": "2026-11-21",
+          "source": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.1"
         }
       }
     },
@@ -121,7 +121,7 @@
         "gui": "2.33.0",
         "ide": "2.7.0",
         "cli": "2.0",
-        "cli_binary": "1.5.12",
+        "cli_binary": "1.5.13",
         "vscode_extension": "1.13.0",
         "visual_studio_extension": "1.0.261116.0"
       },
@@ -129,7 +129,7 @@
         "gui": "2026-11-17",
         "ide": "2026-11-12",
         "cli": null,
-        "cli_binary": "2026-11-19",
+        "cli_binary": "2026-11-20",
         "vscode_extension": "2026-11-16",
         "visual_studio_extension": "2026-11-16"
       },
