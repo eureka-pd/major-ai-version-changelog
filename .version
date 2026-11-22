@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-22",
+  "last_checked": "2026-11-23",
   "apps": {
     "claude-code": {
       "latest": "2.1.330",
@@ -106,8 +106,8 @@
           "source": "https://cursor.com/download"
         },
         "cli": {
-          "version": "2026.11.19-f005e9d",
-          "observed_on": "2026-11-20",
+          "version": "2026.11.22-e9042b2",
+          "observed_on": "2026-11-23",
           "release_date": null,
           "source": "https://cursor.com/install"
         }
