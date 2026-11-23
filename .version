@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-23",
+  "last_checked": "2026-11-24",
   "apps": {
     "claude-code": {
       "latest": "2.1.330",
@@ -18,12 +18,12 @@
       "components": {
         "gui": "26.1111",
         "cli": "0.171.0",
-        "mobile": "1.2026.307"
+        "mobile": "1.2026.314"
       },
       "component_dates": {
         "gui": "2026-11-12",
         "cli": "2026-11-20",
-        "mobile": "2026-11-10",
+        "mobile": "2026-11-18",
         "general": "2026-11-17"
       },
       "notices": {
@@ -121,7 +121,7 @@
         "gui": "2.34.0",
         "ide": "2.8.0",
         "cli": "2.0",
-        "cli_binary": "1.5.14",
+        "cli_binary": "1.5.15",
         "vscode_extension": "1.13.0",
         "visual_studio_extension": "1.0.261116.0"
       },
@@ -129,7 +129,7 @@
         "gui": "2026-11-20",
         "ide": "2026-11-19",
         "cli": null,
-        "cli_binary": "2026-11-21",
+        "cli_binary": "2026-11-23",
         "vscode_extension": "2026-11-16",
         "visual_studio_extension": "2026-11-16"
       },
