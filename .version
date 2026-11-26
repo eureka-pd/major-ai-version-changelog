@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-26",
+  "last_checked": "2026-11-27",
   "apps": {
     "claude-code": {
       "latest": "2.1.332",
@@ -63,10 +63,10 @@
       },
       "prerelease_observations": {
         "cli": {
-          "version": "0.174.0-alpha.5",
-          "published_at": "2026-11-25T01:11Z",
-          "observed_on": "2026-11-26",
-          "source": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.5"
+          "version": "0.174.0-alpha.7",
+          "published_at": "2026-11-26T04:36Z",
+          "observed_on": "2026-11-27",
+          "source": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.7"
         }
       }
     },
@@ -120,22 +120,22 @@
       }
     },
     "antigravity": {
-      "latest": "2.35.1",
-      "date": "2026-11-24",
+      "latest": "2.35.2",
+      "date": "2026-11-25",
       "source": "https://antigravity.google/changelog",
       "components": {
-        "gui": "2.35.1",
+        "gui": "2.35.2",
         "ide": "2.8.0",
         "cli": "2.0",
-        "cli_binary": "1.5.17",
+        "cli_binary": "1.5.18",
         "vscode_extension": "1.13.0",
         "visual_studio_extension": "1.0.261116.0"
       },
       "component_dates": {
-        "gui": "2026-11-24",
+        "gui": "2026-11-25",
         "ide": "2026-11-19",
         "cli": null,
-        "cli_binary": "2026-11-25",
+        "cli_binary": "2026-11-26",
         "vscode_extension": "2026-11-16",
         "visual_studio_extension": "2026-11-16"
       },
